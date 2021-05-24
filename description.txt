@@ -1,0 +1,7 @@
+1 - inital clone test 
+    clone a folder from the url by executing : 
+2 - add commit push test 
+    create a folder with your name 
+    inside the that folder create a file called test with your email inside it 
+    add and commit and push 
+3 - pull finally to see the changes 
