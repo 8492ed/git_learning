@@ -1,11 +1,17 @@
-1 - inital clone test 
-    clone a folder from the url by executing : 
-2 - add commit push test 
-    create a folder with your name 
-    inside the that folder create a file called test with your email inside it 
-    add and commit and push 
+1 - Inital Clone Test 
+    clone the learning repo from the git hub url by executing : 
+    git clone https://github.com/8492ed/git_learning.git
+
+2 - add, ,commit ,push test 
+    create a folder with your name inside the repo
+    inside the that folder create a file called `test.txt`
+    and write your email inside it 
+    in order to save the file to the repo 
+    we should add it : git add 'file path'
+    we should commit it : git commit -m 'message'
+    finally we should push it : git push origin master
 3 - pull finally to see the changes 
+    to get the updates from the repo we execute `git pull`
 
 4 - branches managment 
-    add branches 
-    pushing to diffrent branches 
+    to be continued...
