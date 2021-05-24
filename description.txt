@@ -5,3 +5,7 @@
     inside the that folder create a file called test with your email inside it 
     add and commit and push 
 3 - pull finally to see the changes 
+
+4 - branches managment 
+    add branches 
+    pushing to diffrent branches 
