@@ -10,6 +10,7 @@
     we should add it : git add 'file path'
     we should commit it : git commit -m 'message'
     finally we should push it : git push origin master
+    
 3 - pull finally to see the changes 
     to get the updates from the repo we execute `git pull`
 
