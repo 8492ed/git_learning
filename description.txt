@@ -12,7 +12,12 @@
     finally we should push it : git push origin master
     
 3 - pull finally to see the changes 
-    to get the updates from the repo we execute `git pull`
+    to get the updates from the repo we execute `git pull origin <branche name>`
 
-4 - branches managment 
-    to be continued...
+4 - branches managment
+    `git branche <name>` to create bransh 
+    `git checkout <existing_branch>` to switch branche
+
+5 - save changes & restore original state 
+    `git stash` to stash changes
+    `git stah pop` to restore changes
